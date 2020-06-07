@@ -15,4 +15,8 @@ After removing the unimportant variables, the new model's adjusted R-squared val
 
 ### Suspension PSI
 <img src='Results/Screenshot%20(98).png' height='80'>
-The mean and median of suspension coil PSI aer virtually identical; 1499 and 1500 respectively. The variance is at 62 psi<sup>2</sup>, well below the manufacturers 100psi<sup>2</sup> threshold.
+The mean and median of suspension coil PSI aer virtually identical; 1499 and 1500 respectively. The variance is at 62 psi<sup>2</sup>, well below the manufacturers 100 psi<sup>2</sup> threshold.
+
+### T-test
+<img src='Results/Screenshot%20(99).png' height='100'>
+The t-test tells us that there is not significant evidence (p >0.05) to say our mean varies from the population's mean of 1500 psi. Thus, our sample is a good reresentation of the population.
